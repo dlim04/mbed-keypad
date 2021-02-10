@@ -24,7 +24,6 @@
 *.lai
 *.la
 *.a
-*.lib
 
 # Executables
 *.exe
@@ -39,6 +38,7 @@ CMakeLists.txt
 BUILD
 .mbed
 mbed-os
+button
 
 # CLion Files
 .idea/
