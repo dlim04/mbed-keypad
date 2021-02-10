@@ -2,7 +2,7 @@
 A library to provide an interface for a 3x4 keypad in Mbed.
 
 ## Example
-The following example was written for mbed-06 v6.7:
+The following example was written for mbed-os v6.7:
 ```c++
 #include "mbed.h"
 #include "Keypad.h"
